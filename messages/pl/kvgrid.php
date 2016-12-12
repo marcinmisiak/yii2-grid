@@ -51,7 +51,7 @@ return [
     'The JSON export file will be generated for download.' => '',
     'The PDF export file will be generated for download.' => '',
     'The table header sticks to the top in this demo as you scroll' => '',
-    'There are {totalCount} records. Are you sure you want to display them all?' => '',
+    'There are {totalCount} records. Are you sure you want to display them all?' => 'Znaleziono {totalCount} rekordów. Czy na pewno chcesz wyświetlić wszyskie?',
     'Yii2 Grid Export (PDF)' => '',
     'krajee, grid, export, yii2-grid, pdf' => '',
     '© Krajee Yii2 Extensions' => '',
